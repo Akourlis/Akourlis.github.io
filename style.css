@@ -1,0 +1,17 @@
+body {
+	background: #1ad1ff;
+ }
+
+h1{
+	font-family: 'Indie Flower', cursive;
+
+	font-size:90px;
+}
+
+img {
+	display:
+	block; 
+
+	height: 400px;
+	width: auto;
+}
